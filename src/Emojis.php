@@ -7,7 +7,7 @@ class Emojis
 {
     protected array $fluentUiEmojis = [];
 
-    private function __construct(string $emojiData)
+    protected function __construct(string $emojiData)
     {
         $emojis = json_decode(file_get_contents($emojiData), true);
         $this->fluentUiEmojis = $emojis;
