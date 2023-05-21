@@ -1,0 +1,15 @@
+{
+    "name": "maymeow/php-fluentui-emoji",
+    "autoload": {
+        "psr-4": {
+            "MayMeow\\FluentUiEmoji\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "May",
+            "email": "may@maymeow.com"
+        }
+    ],
+    "require": {}
+}

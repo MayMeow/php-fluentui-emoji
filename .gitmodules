@@ -1,0 +1,3 @@
+[submodule "lib/fluentui-emoji"]
+	path = lib/fluentui-emoji
+	url = https://github.com/MayMeow/fluentui-emoji.git
